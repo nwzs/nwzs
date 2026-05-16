@@ -33,7 +33,7 @@ Currently looking for a **co-op position** in embedded systems, hardware design,
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawaaz%20Suliman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nawaaz-suliman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawaaz%20Suliman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nawaaz-suliman-b736b5407/)
 
 ---
 
