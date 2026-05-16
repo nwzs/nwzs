@@ -1,6 +1,6 @@
 # Hey, I'm Nawaaz 
 
-Computer Engineering student at Toronto Metropolitan University. I like working close to the hardware — building things where software meets silicon.
+Computer Engineering student at Toronto Metropolitan University.
 
 Currently looking for a **co-op position** in embedded systems, hardware design, or computer architecture.
 
@@ -8,7 +8,7 @@ Currently looking for a **co-op position** in embedded systems, hardware design,
 
 ## What I'm Working On
 
-- Building out my RISC-V CPU simulator — adding more instructions and sample programs
+- Building out my RISC-V CPU simulator, adding more instructions and sample programs
 - Coursework in discrete math, algorithms, and digital systems
 
 ---
